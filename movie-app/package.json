@@ -1,0 +1,16 @@
+{
+  "name": "movie-app",
+  "version": "1.0.0",
+  "description": "Movie Application to search and fetch movies",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zachary Portillo",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "moviedb": "file:../moviedb",
+    "yargs": "^13.2.2"
+  }
+}

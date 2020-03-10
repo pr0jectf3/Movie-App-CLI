@@ -1,0 +1,14 @@
+{
+  "name": "moviedb",
+  "version": "1.0.0",
+  "description": "Module for the Omdb API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zachary Portillo",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^4.1.0"
+  }
+}
